@@ -85,11 +85,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(721, 325);
+            this.label2.Location = new System.Drawing.Point(767, 341);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(163, 20);
+            this.label2.Size = new System.Drawing.Size(60, 20);
             this.label2.TabIndex = 4;
-            this.label2.Text = "łączny koszt zakupów";
+            this.label2.Text = "Razem";
             // 
             // lbShoopingCost
             // 
@@ -112,7 +112,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(746, 216);
+            this.label4.Location = new System.Drawing.Point(744, 222);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(98, 20);
             this.label4.TabIndex = 7;

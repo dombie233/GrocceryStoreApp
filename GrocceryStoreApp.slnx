@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="GrocceryStoreApp.Console/GrocceryStoreApp.ConsoleApp.csproj" Id="0cc2ce60-d7b2-464f-b8dc-6063b87d4c8c" />
   <Project Path="GrocceryStoreApp/GrocceryStoreApp.csproj" Id="1483d5c2-0a8d-4c21-bbd8-d1d270a9d171" />
 </Solution>
